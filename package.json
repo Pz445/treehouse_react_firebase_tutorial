@@ -1,0 +1,14 @@
+{
+  "name": "react_firebase_tutorial",
+  "version": "1.0.0",
+  "description": "Full Stack tutorial with Firebase, React, Redux, and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pat P",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^7.6.1"
+  }
+}
